@@ -1,9 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0e14,100:1c2536&height=200&section=header&text=Ranganath%20B%20M&fontSize=42&fontColor=e8ecf4&fontAlignY=42&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20Data%20Science%20%26%20AI&descAlignY=62&descSize=17&descColor=8b96ab&animation=fadeIn" width="100%"/>
 
-<h3 align="center">Information Science & Engineering | Data Analytics • Data Engineering • AI & Machine Learning</h3>
+<h3 align="center">
+Information Science & Engineering | Data Analytics • Data Engineering • AI & Machine Learning
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Data+Engineer+%7C+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+Data-Driven+%26+AI-Powered+Applications;Turning+Data+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Data+Engineer+%7C+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Databricks+%7C+ETL+%7C+Data+Processing;Building+Data-Driven+%26+AI-Powered+Applications;Turning+Data+Into+Insights" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,16 +26,18 @@
 
 I'm an Information Science and Engineering student at **Alva's Institute of Engineering and Technology**, passionate about **Data Analytics, Data Engineering, Machine Learning, Artificial Intelligence, and Python-based application development**.
 
-I enjoy transforming raw data into meaningful insights, building interactive dashboards, developing machine learning models, working with APIs and databases, and creating practical AI-powered applications.
+I enjoy transforming raw data into meaningful insights, building interactive dashboards, developing machine learning models, working with databases and APIs, and exploring modern data engineering platforms such as **Databricks**.
 
 - 📊 Interested in **Data Analytics, Business Intelligence & Data Science**
-- ⚙️ Exploring **Data Engineering, ETL concepts, data processing and data pipelines**
+- ⚙️ Building knowledge in **Data Engineering, ETL, data processing and data pipelines**
+- 🔥 Worked with **Databricks** for data processing and data engineering workflows
 - 🐍 Strong focus on **Python, SQL, Pandas, NumPy and Scikit-learn**
 - 📈 Building dashboards using **Power BI, Power Query, DAX and Excel**
 - 🤖 Exploring **Machine Learning, Deep Learning, NLP and Generative AI**
 - 🧠 Working with **Transformers, RAG, LLMs and Explainable AI**
 - 🔧 Building applications using **Flask, FastAPI and REST APIs**
 - 🗄️ Working with **MySQL, SQLite and data-processing workflows**
+- ☁️ Exploring **Cloud technologies and modern data platforms**
 - 🔗 Using **Git & GitHub** to manage and document projects
 - 🎯 Looking for opportunities in **Data Analytics, Data Engineering, Data Science, ML and AI**
 
@@ -73,6 +77,18 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
+### ⚙️ Data Engineering & Big Data
+
+<p>
+<img src="https://img.shields.io/badge/Databricks-EF3A3A?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL%2FELT-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Pipelines-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Processing-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python_Data_Processing-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Basics-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
+
 ### 🤖 AI & Machine Learning
 
 <p>
@@ -94,16 +110,6 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 <img src="https://img.shields.io/badge/SHAP-FF4B4B?style=flat-square"/>
 </p>
 
-### ⚙️ Data Engineering Foundations
-
-<p>
-<img src="https://img.shields.io/badge/Python_Data_Processing-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/ETL_Concepts-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Processing-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Pipeline_Learning-0078D4?style=flat-square"/>
-</p>
-
 ### 🔧 Backend & APIs
 
 <p>
@@ -122,7 +128,6 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Basics-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
@@ -138,7 +143,7 @@ An interactive business intelligence dashboard built using the **Sample Supersto
 - Built KPI cards for Total Sales, Total Profit, Total Orders and Profit Margin
 - Created sales trends by month and category
 - Analyzed regional and customer-segment performance
-- Implemented interactive Year and Region slicers
+- Implemented Year and Region slicers
 - Created DAX measures for business KPIs
 - Applied data cleaning and transformation using Power Query
 
@@ -186,6 +191,20 @@ A retrieval-augmented generation chatbot designed to provide responses using a k
 - Built REST APIs using FastAPI
 - Created an interactive Streamlit interface
 - Applied Retrieval-Augmented Generation for contextual responses
+
+---
+
+### 🔥 Databricks Data Engineering Work
+
+Hands-on work with **Databricks** for data processing and data engineering workflows.
+
+`Databricks` `Python` `SQL` `Data Processing` `ETL` `Data Pipelines`
+
+- Worked with Databricks notebooks
+- Performed data processing using Python and SQL
+- Explored ETL and data transformation workflows
+- Worked with structured datasets and data-processing operations
+- Built foundational understanding of data pipelines and modern data engineering workflows
 
 ---
 
@@ -288,6 +307,8 @@ Machine Learning
       ↓
 Data Science / AI
       ↓
-Data Engineering Foundations
+Databricks + Data Engineering
       ↓
-ETL + Data Pipelines + Cloud
+ETL / ELT + Data Pipelines
+      ↓
+Cloud Data Platforms
