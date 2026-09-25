@@ -281,9 +281,7 @@ A Python-based web calculator supporting voice and text commands for mathematica
 ## 📜 Certifications
 
 - **IBM Full Stack JavaScript Developer Professional Certificate**
-- **Programming in JavaScript with Meta**
 - **Generative AI for Data Analysis — Coursera**
-- **Human-Centered AI — Coursera**
 - **Natural Language Processing — Infosys Springboard**
 - **Data Science Foundation — Infosys Springboard**
 - **Python Foundation — Infosys Springboard**
