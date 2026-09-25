@@ -1,11 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0e14,100:1c2536&height=200&section=header&text=Ranganath%20B%20M&fontSize=42&fontColor=e8ecf4&fontAlignY=42&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20Data%20Science%20%26%20AI&descAlignY=62&descSize=17&descColor=8b96ab&animation=fadeIn" width="100%"/>
+<h1 align="center">Hi 👋, I'm Ranganath B M</h1>
 
 <h3 align="center">
-Information Science & Engineering | Data Analytics • Data Engineering • AI & Machine Learning
+Data Analyst | Data Engineer | Data Science & AI
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Data+Engineer+%7C+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Databricks+%7C+ETL+%7C+Data+Processing;Building+Data-Driven+%26+AI-Powered+Applications;Turning+Data+Into+Insights" alt="Typing SVG" />
+Information Science & Engineering | Data Analytics • Data Engineering • AI & Machine Learning
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+Data+Engineer+%7C+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Databricks+%7C+ETL+%7C+Data+Processing;Building+Data-Driven+%26+AI-Powered+Applications;Turning+Data+Into+Insights" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +20,7 @@ Information Science & Engineering | Data Analytics • Data Engineering • AI &
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/RANGANATHBM98">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -24,7 +28,7 @@ Information Science & Engineering | Data Analytics • Data Engineering • AI &
 
 ## 🚀 About Me
 
-I'm an Information Science and Engineering student at **Alva's Institute of Engineering and Technology**, passionate about **Data Analytics, Data Engineering, Machine Learning, Artificial Intelligence, and Python-based application development**.
+I'm an Information Science and Engineering student at **Alva's Institute of Engineering and Technology**, passionate about **Data Analytics, Data Engineering, Data Science, Machine Learning, Artificial Intelligence, and Python-based application development**.
 
 I enjoy transforming raw data into meaningful insights, building interactive dashboards, developing machine learning models, working with databases and APIs, and exploring modern data engineering platforms such as **Databricks**.
 
@@ -43,9 +47,9 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -56,7 +60,9 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-### 📊 Data Analytics & Business Intelligence
+---
+
+## 📊 Data Analytics & Business Intelligence
 
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
@@ -66,7 +72,9 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
 
-### 🐍 Python & Data Science
+---
+
+## 🐍 Python & Data Science
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -77,7 +85,9 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
-### ⚙️ Data Engineering & Big Data
+---
+
+## ⚙️ Data Engineering & Big Data
 
 <p>
 <img src="https://img.shields.io/badge/Databricks-EF3A3A?style=flat-square&logo=databricks&logoColor=white"/>
@@ -89,7 +99,9 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 <img src="https://img.shields.io/badge/AWS_Basics-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
-### 🤖 AI & Machine Learning
+---
+
+## 🤖 AI & Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -100,7 +112,9 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 </p>
 
-### 🧠 Generative AI & NLP
+---
+
+## 🧠 Generative AI & NLP
 
 <p>
 <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/>
@@ -110,7 +124,9 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 <img src="https://img.shields.io/badge/SHAP-FF4B4B?style=flat-square"/>
 </p>
 
-### 🔧 Backend & APIs
+---
+
+## 🔧 Backend & APIs
 
 <p>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -120,7 +136,9 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
-### 🗄️ Databases & Development Tools
+---
+
+## 🗄️ Databases & Development Tools
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -132,9 +150,9 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 
 ---
 
-## 💼 Featured Projects
+# 💼 Featured Projects
 
-### 📊 Sales Performance Dashboard — Power BI
+## 📊 Sales Performance Dashboard — Power BI
 
 An interactive business intelligence dashboard built using the **Sample Superstore dataset** to analyze sales, profit, customers, products and regional performance.
 
@@ -149,7 +167,7 @@ An interactive business intelligence dashboard built using the **Sample Supersto
 
 ---
 
-### 🌱 Startup Operations & Growth Intelligence Dashboard
+## 🌱 Startup Operations & Growth Intelligence Dashboard
 
 An Excel-based operations dashboard designed to provide visibility into startup spending, burn rate, growth metrics and operational performance.
 
@@ -163,7 +181,22 @@ An Excel-based operations dashboard designed to provide visibility into startup 
 
 ---
 
-### 🧠 NeuroScreen — Multimodal Depression-Risk Screening
+## 🔥 Databricks Data Engineering Work
+
+Hands-on work with **Databricks** focused on data processing and data engineering workflows.
+
+`Databricks` `Python` `SQL` `ETL` `Data Processing` `Data Pipelines`
+
+- Worked with Databricks notebooks
+- Performed data processing using Python and SQL
+- Explored ETL and data transformation workflows
+- Worked with structured datasets and data-processing operations
+- Developed foundational understanding of data pipelines
+- Explored modern data engineering workflows using Databricks
+
+---
+
+## 🧠 NeuroScreen — Multimodal Depression-Risk Screening
 
 A research prototype combining multiple modalities for depression-risk screening using text, facial and speech information.
 
@@ -180,9 +213,9 @@ A research prototype combining multiple modalities for depression-risk screening
 
 ---
 
-### 🤖 AI-Powered RAG Chatbot
+## 🤖 AI-Powered RAG Chatbot
 
-A retrieval-augmented generation chatbot designed to provide responses using a knowledge base and modern NLP techniques.
+A Retrieval-Augmented Generation chatbot designed to provide responses using a knowledge base and modern NLP techniques.
 
 `Python` `FastAPI` `Streamlit` `LangChain` `Hugging Face` `FAISS` `RAG`
 
@@ -194,21 +227,7 @@ A retrieval-augmented generation chatbot designed to provide responses using a k
 
 ---
 
-### 🔥 Databricks Data Engineering Work
-
-Hands-on work with **Databricks** for data processing and data engineering workflows.
-
-`Databricks` `Python` `SQL` `Data Processing` `ETL` `Data Pipelines`
-
-- Worked with Databricks notebooks
-- Performed data processing using Python and SQL
-- Explored ETL and data transformation workflows
-- Worked with structured datasets and data-processing operations
-- Built foundational understanding of data pipelines and modern data engineering workflows
-
----
-
-### 🏠 Boston House Price Prediction
+## 🏠 Boston House Price Prediction
 
 A machine learning project focused on predicting house prices using regression techniques.
 
@@ -222,7 +241,7 @@ A machine learning project focused on predicting house prices using regression t
 
 ---
 
-### 🔢 Handwritten Number Classification
+## 🔢 Handwritten Number Classification
 
 A computer vision and machine learning project for recognizing handwritten numbers from images.
 
@@ -236,7 +255,7 @@ A computer vision and machine learning project for recognizing handwritten numbe
 
 ---
 
-### 🏦 Mobile Banking Application Testing
+## 🏦 Mobile Banking Application Testing
 
 An API and database testing project for a mobile banking application.
 
@@ -252,7 +271,7 @@ An API and database testing project for a mobile banking application.
 
 ---
 
-### 🧮 Voice-Activated Calculator
+## 🧮 Voice-Activated Calculator
 
 A Python-based web calculator supporting voice and text commands for mathematical operations.
 
@@ -267,7 +286,7 @@ A Python-based web calculator supporting voice and text commands for mathematica
 
 ---
 
-## 📚 Other Projects
+# 📚 Other Projects
 
 - 🌾 **Fertile Land Makers** — Agricultural land listing web platform
 - 🐍 **Python Practice & Data Analysis** — NumPy, Pandas, Seaborn, Statistics and Python notebooks
@@ -278,10 +297,12 @@ A Python-based web calculator supporting voice and text commands for mathematica
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 - **IBM Full Stack JavaScript Developer Professional Certificate**
+- **Programming in JavaScript with Meta**
 - **Generative AI for Data Analysis — Coursera**
+- **Human-Centered AI — Coursera**
 - **Natural Language Processing — Infosys Springboard**
 - **Data Science Foundation — Infosys Springboard**
 - **Python Foundation — Infosys Springboard**
@@ -292,7 +313,7 @@ A Python-based web calculator supporting voice and text commands for mathematica
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 ```text
 Data Analytics
