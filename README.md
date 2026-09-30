@@ -26,11 +26,11 @@ Information Science & Engineering | Data Analytics • Data Engineering • AI &
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm an Information Science and Engineering student at **Alva's Institute of Engineering and Technology**, passionate about **Data Analytics, Data Engineering, Data Science, Machine Learning, Artificial Intelligence, and Python-based application development**.
+I'm an Information Science and Engineering student at **Alva's Institute of Engineering and Technology**, passionate about **Data Analytics, Data Engineering, Data Science, Machine Learning, Artificial Intelligence, and full-stack application development**.
 
-I enjoy transforming raw data into meaningful insights, building interactive dashboards, developing machine learning models, working with databases and APIs, and exploring modern data engineering platforms such as **Databricks**.
+I enjoy transforming raw data into meaningful insights, building interactive dashboards, developing machine learning models, working with databases and APIs, and building real-world data-driven applications.
 
 - 📊 Interested in **Data Analytics, Business Intelligence & Data Science**
 - ⚙️ Building knowledge in **Data Engineering, ETL, data processing and data pipelines**
@@ -39,11 +39,12 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 - 📈 Building dashboards using **Power BI, Power Query, DAX and Excel**
 - 🤖 Exploring **Machine Learning, Deep Learning, NLP and Generative AI**
 - 🧠 Working with **Transformers, RAG, LLMs and Explainable AI**
-- 🔧 Building applications using **Flask, FastAPI and REST APIs**
-- 🗄️ Working with **MySQL, SQLite and data-processing workflows**
+- 🌐 Building full-stack applications using **Next.js, React, TypeScript and FastAPI**
+- 🔧 Developing backend services using **FastAPI, Flask and REST APIs**
+- 🗄️ Working with **MySQL, SQLite, PostgreSQL and SQLAlchemy**
 - ☁️ Exploring **Cloud technologies and modern data platforms**
-- 🔗 Using **Git & GitHub** to manage and document projects
-- 🎯 Looking for opportunities in **Data Analytics, Data Engineering, Data Science, ML and AI**
+- 🔗 Using **Git & GitHub** for version control and project management
+- 🎯 Looking for opportunities in **Data Analytics, Data Engineering, Data Science, ML, AI and Software Development**
 
 ---
 
@@ -55,6 +56,7 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -126,11 +128,24 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 
 ---
 
+## 🌐 Full Stack Development
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square"/>
+<img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"/>
+</p>
+
+---
+
 ## 🔧 Backend & APIs
 
 <p>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
@@ -141,8 +156,11 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 ## 🗄️ Databases & Development Tools
 
 <p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
@@ -152,26 +170,141 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 
 # 💼 Featured Projects
 
+## 🌾 FertileLandMakers — Agricultural Land Marketplace
+
+A full-stack farmland marketplace that connects **landowners with farmers seeking agricultural land**, providing land discovery, listing management, verification, contact access, payments, and private communication.
+
+**Tech Stack:**  
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `Radix UI`  
+`FastAPI` `Python` `SQLAlchemy` `Pydantic` `SQLite` `JWT` `Razorpay`
+
+### Key Features
+
+- 🌱 Agricultural land discovery and search
+- 🔎 Advanced land listing filters
+- 🏡 Owner dashboard and listing management
+- 👨‍🌾 Farmer dashboard and land requests
+- 📸 Land photo uploads
+- 📑 Ownership document submission
+- 🔐 JWT authentication and role-based authorization
+- 🛡️ Admin-based land and identity verification
+- 💳 Razorpay payment integration
+- 💬 Private owner-farmer messaging
+- 🆘 FAQ and authenticated support tickets
+- 🔒 Protected owner contact and location information
+
+### Security & Privacy
+
+- Public listings hide precise coordinates and addresses
+- Owner contact information is protected until authorized
+- Ownership and identity documents are restricted to administrators
+- Uploaded land images are processed to remove EXIF metadata
+- JWT authentication protects private application workflows
+- Role-based authorization controls Owner, Farmer, and Admin access
+
+### Payment Workflow
+
+Razorpay integration supports:
+
+- Order creation
+- Payment signature verification
+- Payment capture
+- Webhook verification
+- Per-acre land listing fees
+- Paid farmer contact unlocking
+
+**Development defaults:**
+
+```text
+Land Listing Fee: ₹50 per acre
+Contact Unlock Fee: ₹15
+```
+
+Razorpay remains disabled until valid credentials are configured.
+
+### Backend Architecture
+
+```text
+Next.js / React
+       │
+       │ REST API
+       ▼
+FastAPI Backend
+       │
+       ├── JWT Authentication
+       ├── Role-Based Authorization
+       ├── Land Management
+       ├── Verification
+       ├── Messaging
+       ├── Payments
+       └── Support
+       │
+       ▼
+SQLAlchemy + Pydantic
+       │
+       ├── SQLite
+       └── PostgreSQL (Production)
+```
+
+### Testing & Quality
+
+- Production build passed
+- Frozen pnpm lockfile check passed
+- All 4 backend tests passed against an isolated copy
+- ESLint reports 0 errors
+- 13 image-optimization warnings remain
+- Webpack used for development because Turbopack caused a React Server Components runtime error
+
+### Local Development
+
+```text
+Frontend:
+http://localhost:3000
+
+FastAPI Documentation:
+http://localhost:8000/docs
+```
+
+The frontend and backend are started in separate terminals.
+
+### Production Requirements
+
+Production deployment should use:
+
+- PostgreSQL
+- Managed private file storage
+- HTTPS
+- Secure secret management
+- Production Razorpay credentials
+- Monitoring and logging
+- Backup and recovery mechanisms
+
+Automatic Aadhaar/KYC verification, government land-record lookups, and SMS/email notifications are currently not implemented.
+
+**Project Status:** `Active Development`
+
+---
+
 ## 📊 Sales Performance Dashboard — Power BI
 
-An interactive business intelligence dashboard built using the **Sample Superstore dataset** to analyze sales, profit, customers, products and regional performance.
+An interactive business intelligence dashboard built using the **Sample Superstore dataset** to analyze sales, profit, customers, products, and regional performance.
 
-`Power BI` `Power Query` `DAX` `Excel` `Data Modeling`
+**Tech Stack:** `Power BI` `Power Query` `DAX` `Excel` `Data Modeling`
 
 - Built KPI cards for Total Sales, Total Profit, Total Orders and Profit Margin
-- Created sales trends by month and category
+- Created monthly sales trends by category
 - Analyzed regional and customer-segment performance
 - Implemented Year and Region slicers
 - Created DAX measures for business KPIs
-- Applied data cleaning and transformation using Power Query
+- Performed data cleaning and transformation using Power Query
 
 ---
 
 ## 🌱 Startup Operations & Growth Intelligence Dashboard
 
-An Excel-based operations dashboard designed to provide visibility into startup spending, burn rate, growth metrics and operational performance.
+An Excel-based operations dashboard designed to analyze startup spending, burn rate, growth metrics, and operational performance.
 
-`Microsoft Excel` `Pivot Tables` `Slicers` `SUMIFS` `COUNTIFS` `KPI Reporting`
+**Tech Stack:** `Microsoft Excel` `Pivot Tables` `Slicers` `SUMIFS` `COUNTIFS` `KPI Reporting`
 
 - Built an interactive KPI dashboard
 - Analyzed departmental spending and budget variance
@@ -183,31 +316,31 @@ An Excel-based operations dashboard designed to provide visibility into startup 
 
 ## 🔥 Databricks Data Engineering Work
 
-Hands-on work with **Databricks** focused on data processing and data engineering workflows.
+Hands-on work with **Databricks** focused on data processing, transformation, ETL workflows, and data pipelines.
 
-`Databricks` `Python` `SQL` `ETL` `Data Processing` `Data Pipelines`
+**Tech Stack:** `Databricks` `Python` `SQL` `ETL` `Data Processing` `Data Pipelines`
 
 - Worked with Databricks notebooks
 - Performed data processing using Python and SQL
 - Explored ETL and data transformation workflows
-- Worked with structured datasets and data-processing operations
+- Worked with structured datasets
 - Developed foundational understanding of data pipelines
-- Explored modern data engineering workflows using Databricks
+- Explored modern data engineering workflows
 
 ---
 
 ## 🧠 NeuroScreen — Multimodal Depression-Risk Screening
 
-A research prototype combining multiple modalities for depression-risk screening using text, facial and speech information.
+A research prototype combining **text, speech, and facial information** for multimodal depression-risk screening.
 
-`Python` `PyTorch` `Transformers` `BiLSTM` `ResNet-18` `Whisper` `LIME` `Grad-CAM` `FastAPI`
+**Tech Stack:** `Python` `PyTorch` `Transformers` `BiLSTM` `ResNet-18` `Whisper` `LIME` `Grad-CAM` `FastAPI`
 
-- Text branch using Transformer-based NLP with BiLSTM and Attention
-- Facial analysis using ResNet-18 and Grad-CAM
-- Speech analysis using Whisper and acoustic features
-- Multimodal probability fusion
-- Explainability using LIME and Grad-CAM
-- FastAPI backend for model inference and application integration
+- Developed Transformer-based text processing with BiLSTM and Attention
+- Implemented facial analysis using ResNet-18
+- Processed speech using Whisper and acoustic features
+- Combined multimodal outputs through probability fusion
+- Applied LIME and Grad-CAM for explainability
+- Built a FastAPI backend for model inference
 
 > **Disclaimer:** This is a research/educational prototype and not a medical diagnostic system.
 
@@ -215,59 +348,31 @@ A research prototype combining multiple modalities for depression-risk screening
 
 ## 🤖 AI-Powered RAG Chatbot
 
-A Retrieval-Augmented Generation chatbot designed to provide responses using a knowledge base and modern NLP techniques.
+A Retrieval-Augmented Generation chatbot designed to provide contextual responses using a knowledge base.
 
-`Python` `FastAPI` `Streamlit` `LangChain` `Hugging Face` `FAISS` `RAG`
+**Tech Stack:** `Python` `FastAPI` `Streamlit` `LangChain` `Hugging Face` `FAISS` `RAG`
 
 - Implemented document retrieval using FAISS
 - Integrated transformer-based NLP models
-- Built REST APIs using FastAPI
-- Created an interactive Streamlit interface
-- Applied Retrieval-Augmented Generation for contextual responses
-
----
-
-## 🏠 Boston House Price Prediction
-
-A machine learning project focused on predicting house prices using regression techniques.
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Machine Learning`
-
-- Performed data preprocessing and exploration
-- Applied regression-based machine learning
-- Trained and evaluated prediction models
-- Generated predictions from housing features
-- Explored relationships between input variables and house prices
-
----
-
-## 🔢 Handwritten Number Classification
-
-A computer vision and machine learning project for recognizing handwritten numbers from images.
-
-`Python` `OpenCV` `NumPy` `Matplotlib` `Scikit-learn`
-
-- Image preprocessing using OpenCV
-- Grayscale conversion and thresholding
-- Contour detection and digit extraction
-- Image resizing and normalization
-- Prepared handwritten digits for machine learning classification
+- Developed REST APIs using FastAPI
+- Built an interactive Streamlit interface
+- Applied RAG for contextual responses
 
 ---
 
 ## 🏦 Mobile Banking Application Testing
 
-An API and database testing project for a mobile banking application.
+An API and database testing project for a mobile banking application covering authentication, account operations, transactions, and database validation.
 
-`Python` `Flask` `SQLite` `Postman` `Pytest` `Requests` `SQL` `Excel`
+**Tech Stack:** `Python` `Flask` `SQLite` `Postman` `Pytest` `Requests` `SQL` `Excel`
 
 - Tested login and authentication workflows
-- Tested account balance and transaction workflows
-- Tested money transfer APIs
-- Performed positive and negative API testing
-- Created automated tests using Pytest and Requests
+- Tested account balance and transaction APIs
+- Tested money transfer functionality
+- Implemented positive and negative API testing
+- Automated API tests using Pytest and Requests
 - Validated database records using SQL
-- Documented test cases and bugs using Excel
+- Documented test cases and testing results
 
 ---
 
@@ -275,21 +380,20 @@ An API and database testing project for a mobile banking application.
 
 A Python-based web calculator supporting voice and text commands for mathematical operations.
 
-`Python` `Flask` `SpeechRecognition` `pyttsx3`
+**Tech Stack:** `Python` `Flask` `SpeechRecognition` `pyttsx3`
 
-- Basic arithmetic operations
-- Power and root calculations
-- Trigonometric functions
-- Logarithmic calculations
-- Factorial operations
-- Voice-based mathematical commands
+- Implemented arithmetic operations
+- Added power and root calculations
+- Added trigonometric functions
+- Added logarithmic calculations
+- Implemented factorial operations
+- Added voice-based mathematical commands
 
 ---
 
-# 📚 Other Projects
+# 📚 Additional Projects
 
-- 🌾 **Fertile Land Makers** — Agricultural land listing web platform
-- 🐍 **Python Practice & Data Analysis** — NumPy, Pandas, Seaborn, Statistics and Python notebooks
+- 🐍 **Python Practice & Data Analysis** — NumPy, Pandas, Statistics and Python notebooks
 - 📈 **Linear & Logistic Regression** — Machine learning practice and model development
 - 🎤 **Voice Command Applications**
 - 💻 **Web Development Projects**
@@ -331,3 +435,27 @@ Databricks + Data Engineering
 ETL / ELT + Data Pipelines
       ↓
 Cloud Data Platforms
+      ↓
+Full-Stack Data-Driven Applications
+```
+
+---
+
+# 💼 Career Interests
+
+- Data Analyst
+- Business Intelligence Analyst
+- Data Engineer
+- Junior Data Scientist
+- Machine Learning Engineer
+- AI / Generative AI
+- Python Developer
+- Backend Developer
+- Full-Stack Developer
+- Data Engineering & Analytics
+
+---
+
+<p align="center">
+  <b>Turning Data Into Insights • Building Intelligent Applications • Solving Real-World Problems 🚀</b>
+</p>
