@@ -167,121 +167,18 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 </p>
 
 ---
-
-# 💼 Featured Projects
-
 ## 🌾 FertileLandMakers — Agricultural Land Marketplace
 
-A full-stack farmland marketplace that connects **landowners with farmers seeking agricultural land**, providing land discovery, listing management, verification, contact access, payments, and private communication.
+A full-stack farmland marketplace connecting **landowners and farmers** for agricultural land discovery, listing, verification, contact access, and communication.
 
-**Tech Stack:**  
-`Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `Radix UI`  
-`FastAPI` `Python` `SQLAlchemy` `Pydantic` `SQLite` `JWT` `Razorpay`
+**Tech Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `SQLAlchemy` `Pydantic` `SQLite` `JWT` `Razorpay`
 
-### Key Features
-
-- 🌱 Agricultural land discovery and search
-- 🔎 Advanced land listing filters
-- 🏡 Owner dashboard and listing management
-- 👨‍🌾 Farmer dashboard and land requests
-- 📸 Land photo uploads
-- 📑 Ownership document submission
-- 🔐 JWT authentication and role-based authorization
-- 🛡️ Admin-based land and identity verification
-- 💳 Razorpay payment integration
-- 💬 Private owner-farmer messaging
-- 🆘 FAQ and authenticated support tickets
-- 🔒 Protected owner contact and location information
-
-### Security & Privacy
-
-- Public listings hide precise coordinates and addresses
-- Owner contact information is protected until authorized
-- Ownership and identity documents are restricted to administrators
-- Uploaded land images are processed to remove EXIF metadata
-- JWT authentication protects private application workflows
-- Role-based authorization controls Owner, Farmer, and Admin access
-
-### Payment Workflow
-
-Razorpay integration supports:
-
-- Order creation
-- Payment signature verification
-- Payment capture
-- Webhook verification
-- Per-acre land listing fees
-- Paid farmer contact unlocking
-
-**Development defaults:**
-
-```text
-Land Listing Fee: ₹50 per acre
-Contact Unlock Fee: ₹15
-```
-
-Razorpay remains disabled until valid credentials are configured.
-
-### Backend Architecture
-
-```text
-Next.js / React
-       │
-       │ REST API
-       ▼
-FastAPI Backend
-       │
-       ├── JWT Authentication
-       ├── Role-Based Authorization
-       ├── Land Management
-       ├── Verification
-       ├── Messaging
-       ├── Payments
-       └── Support
-       │
-       ▼
-SQLAlchemy + Pydantic
-       │
-       ├── SQLite
-       └── PostgreSQL (Production)
-```
-
-### Testing & Quality
-
-- Production build passed
-- Frozen pnpm lockfile check passed
-- All 4 backend tests passed against an isolated copy
-- ESLint reports 0 errors
-- 13 image-optimization warnings remain
-- Webpack used for development because Turbopack caused a React Server Components runtime error
-
-### Local Development
-
-```text
-Frontend:
-http://localhost:3000
-
-FastAPI Documentation:
-http://localhost:8000/docs
-```
-
-The frontend and backend are started in separate terminals.
-
-### Production Requirements
-
-Production deployment should use:
-
-- PostgreSQL
-- Managed private file storage
-- HTTPS
-- Secure secret management
-- Production Razorpay credentials
-- Monitoring and logging
-- Backup and recovery mechanisms
-
-Automatic Aadhaar/KYC verification, government land-record lookups, and SMS/email notifications are currently not implemented.
-
-**Project Status:** `Active Development`
+- Developed role-based workflows for **Owners, Farmers, and Admins** with JWT authentication
+- Built land listing, search, filtering, photo upload, and agricultural detail management
+- Implemented ownership document submission and **manual land verification** workflows
+- Integrated **Razorpay** for land listing fees and paid farmer contact unlocking
+- Developed private owner-farmer messaging and authenticated support ticket management
+- Protected sensitive location, contact, and verification data using role-based access controls and secure file handling
 
 ---
 
