@@ -9,7 +9,7 @@ Information Science & Engineering | Data Analytics • Data Engineering • AI &
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+Data+Engineer+%7C+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Databricks+%7C+ETL+%7C+Data+Processing;Building+Data-Driven+%26+AI-Powered+Applications;Turning+Data+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+Data+Engineer+%7C+Data+Science;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;DuckDB+%7C+ETL+%7C+Data+Pipelines;Building+Data-Driven+%26+AI-Powered+Applications;Turning+Data+Into+Insights" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,15 +34,15 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 
 - 📊 Interested in **Data Analytics, Business Intelligence & Data Science**
 - ⚙️ Building knowledge in **Data Engineering, ETL, data processing and data pipelines**
-- 🔥 Worked with **Databricks** for data processing and data engineering workflows
+- 🦆 Architecting high-performance dimensional data warehouses with **DuckDB & SQL**
 - 🐍 Strong focus on **Python, SQL, Pandas, NumPy and Scikit-learn**
-- 📈 Building dashboards using **Power BI, Power Query, DAX and Excel**
+- 📈 Building interactive dashboards using **Power BI, DAX, Tableau and Excel**
 - 🤖 Exploring **Machine Learning, Deep Learning, NLP and Generative AI**
 - 🧠 Working with **Transformers, RAG, LLMs and Explainable AI**
 - 🌐 Building full-stack applications using **Next.js, React, TypeScript and FastAPI**
 - 🔧 Developing backend services using **FastAPI, Flask and REST APIs**
-- 🗄️ Working with **MySQL, SQLite, PostgreSQL and SQLAlchemy**
-- ☁️ Exploring **Cloud technologies and modern data platforms**
+- 🗄️ Working with **DuckDB, MySQL, SQLite, PostgreSQL and SQLAlchemy**
+- ☁️ Exploring **Cloud technologies and modern analytical data platforms**
 - 🔗 Using **Git & GitHub** for version control and project management
 - 🎯 Looking for opportunities in **Data Analytics, Data Engineering, Data Science, ML, AI and Software Development**
 
@@ -68,10 +68,10 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_Query-742774?style=flat-square&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
 
 ---
@@ -89,16 +89,15 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 
 ---
 
-## ⚙️ Data Engineering & Big Data
+## ⚙️ Data Engineering & Warehousing
 
 <p>
-<img src="https://img.shields.io/badge/Databricks-EF3A3A?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
 <img src="https://img.shields.io/badge/ETL%2FELT-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Pipelines-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Processing-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dimensional_Modeling-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Pipelines-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python_Data_Processing-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Basics-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
@@ -156,6 +155,7 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 ## 🗄️ Databases & Development Tools
 
 <p>
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
@@ -167,6 +167,36 @@ I enjoy transforming raw data into meaningful insights, building interactive das
 </p>
 
 ---
+
+# 🌟 Featured Projects
+
+## 🏛️ [Enterprise Decision Intelligence Platform](https://github.com/RANGANATHBM98/enterprise-decision-intelligence-platform)
+
+An end-to-end analytical decision intelligence platform transforming 15,000+ transactional enterprise records into automated, prescriptive business interventions using dimensional warehousing, predictive ML, and enterprise BI cockpits.
+
+**Tech Stack:** `DuckDB` `Python` `Scikit-learn` `SQL` `Power BI` `Tableau` `Pandas`
+
+- Architected a high-performance **DuckDB star schema** (`Fact_Transactions`, `Dim_Customer`, `Dim_Product`, `Dim_Date`) with surrogate keys.
+- Implemented **K-Means clustering** for RFM customer segmentation and a **Random Forest classifier** for churn risk probability scoring.
+- Built a prescriptive rules engine assigning automated strategic interventions (e.g., Executive Sponsor Outreach, Volume Rebates).
+- Designed an operational **Power BI Cockpit** featuring DAX measures and What-If simulation parameters assessing price elasticity impacts ($\pm 20\%$).
+- Constructed an exploratory **Tableau dashboard** tracking regional profitability and long-term cohort churn decay trajectories.
+
+---
+
+## ⚡ [Real-Time Business KPI Analytics](https://github.com/RANGANATHBM98/real-time-business-kpi-analytics)
+
+A real-time analytics and monitoring platform designed for automated data ingestion, operational KPI computation, and interactive business health visualization.
+
+**Tech Stack:** `Python` `SQL` `FastAPI` `Pandas` `Data Engineering` `KPI Dashboards`
+
+- Developed high-throughput data processing workflows to ingest and transform operational transactional streams.
+- Computed mission-critical business KPIs including real-time revenue velocity, churn propensity, and margin health.
+- Automated anomaly detection and alert triggers for core metric deviations.
+- Delivered intuitive executive visualizations and responsive REST APIs to empower rapid, data-informed operational decisions.
+
+---
+
 ## 🌾 FertileLandMakers — Agricultural Land Marketplace
 
 A full-stack farmland marketplace connecting **landowners and farmers** for agricultural land discovery, listing, verification, contact access, and communication.
@@ -208,21 +238,6 @@ An Excel-based operations dashboard designed to analyze startup spending, burn r
 - Tracked burn rate and operational metrics
 - Used Pivot Tables and dynamic slicers
 - Created business-focused visualizations for decision support
-
----
-
-## 🔥 Databricks Data Engineering Work
-
-Hands-on work with **Databricks** focused on data processing, transformation, ETL workflows, and data pipelines.
-
-**Tech Stack:** `Databricks` `Python` `SQL` `ETL` `Data Processing` `Data Pipelines`
-
-- Worked with Databricks notebooks
-- Performed data processing using Python and SQL
-- Explored ETL and data transformation workflows
-- Worked with structured datasets
-- Developed foundational understanding of data pipelines
-- Explored modern data engineering workflows
 
 ---
 
@@ -319,7 +334,7 @@ A Python-based web calculator supporting voice and text commands for mathematica
 ```text
 Data Analytics
       ↓
-SQL + Excel + Power BI
+SQL + Excel + Power BI + Tableau
       ↓
 Python + Pandas + Statistics
       ↓
@@ -327,32 +342,10 @@ Machine Learning
       ↓
 Data Science / AI
       ↓
-Databricks + Data Engineering
+DuckDB + Data Engineering
       ↓
 ETL / ELT + Data Pipelines
       ↓
-Cloud Data Platforms
+Modern Analytical Warehousing
       ↓
 Full-Stack Data-Driven Applications
-```
-
----
-
-# 💼 Career Interests
-
-- Data Analyst
-- Business Intelligence Analyst
-- Data Engineer
-- Junior Data Scientist
-- Machine Learning Engineer
-- AI / Generative AI
-- Python Developer
-- Backend Developer
-- Full-Stack Developer
-- Data Engineering & Analytics
-
----
-
-<p align="center">
-  <b>Turning Data Into Insights • Building Intelligent Applications • Solving Real-World Problems 🚀</b>
-</p>
